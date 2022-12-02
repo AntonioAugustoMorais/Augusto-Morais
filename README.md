@@ -4,8 +4,8 @@
 
 - 🚀 Comprometido, dedicado e honesto desejo, ao ingressar na presente instituição trabalhar com qualidade, compromisso, ética moral e profissional, empregando meus conhecimentos e contribuindo para o desenvolvimento e crescimento da mesma.
 - 💼 Atualmente estou em busco de uma oportunide de trabalho. 
-- 📚 Evoluindo a dia na capacitação profisional
-- 💻 Procurando colaborar como desenvolvedor Front End
+- 📚 Evoluindo dia a dia na capacitação profisional.
+- 💻 Procurando colaborar como desenvolvedor Front End.
 
 <h1> Ferramentas e Tecnologias </h1>
 
