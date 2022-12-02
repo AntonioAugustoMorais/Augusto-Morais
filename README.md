@@ -7,8 +7,6 @@
 - 📚 Evoluindo a dia na capacitação profisional
 - 💻 Procurando colaborar como desenvolvedor Front End
 
-<img src="https://myoctocat.com/build-your-octocat/" width="40" height="40" /> 
-
 <h1> Ferramentas e Tecnologias </h1>
 
 <h3> Conheciemnto básico </h3>
